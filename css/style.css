@@ -12,15 +12,15 @@
      * colors
      */
   
-    --ultramarine-blue_10: hsla(235, 70%, 60%, 0.1);
-    --ultramarine-blue: hsl(235, 70%, 60%);
+    --ultramarine-blue_10: hsla(216.2, 60.9%, 42.2%, 0.1);
+    --ultramarine-blue: hsl(199.2, 72.1%, 50.8%);
     --orange-peel_10: hsla(36, 100%, 55%, 0.1);
     --space-cadet_20: hsla(248, 32%, 23%, 0.2);
     --space-cadet_80: hsla(247, 35%, 19%, 0.8);
     --space-cadet-2: hsl(247, 35%, 19%);
     --old-lavender: hsl(251, 9%, 46%);
-    --orange-peel: hsl(36, 100%, 55%);
-    --tart-orange: hsl(0, 100%, 63%);
+    --orange-peel: hsl(33.7, 87.1%, 57.5%);
+    --tart-orange: hsl(22, 84.2, 49.6);
     --light-gray: hsl(0, 0%, 80%);
     --cultured-1: hsl(0, 0%, 96%);
     --cultured-2: hsl(0, 0%, 93%);
